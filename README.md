@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/parmarparth585" target="blank"><img src="https://img.shields.io/twitter/follow/parmarparth585?logo=twitter&style=for-the-badge" alt="parmarparth585" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain, Smart Contract and Angular.**
+- 🌱 I’m currently learning **Blockchain, Solidity and Angular.**
 
 - 💬 Ask me about **Smart Contract, Block and JS.**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [http://parmarparth.website](http://parmarparth.website)
 
-- ⚡ Fun fact **I love pizza but only on NFT's**
+- ⚡ Fun fact **I love Bitter gourd but only on NFT's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
