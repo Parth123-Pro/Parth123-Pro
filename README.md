@@ -16,5 +16,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 ---
 ### Donation for Macbook Air-2022  
-(https://<img width="374" alt="Screenshot 2022-08-11 at 4 45 31 PM" src="https://user-images.githubusercontent.com/55745745/184121700-6b7645c0-e3e1-48fa-824c-36507c457a38.png">
+<img width="374" alt="Screenshot 2022-08-11 at 4 45 31 PM" src="https://user-images.githubusercontent.com/55745745/184121700-6b7645c0-e3e1-48fa-824c-36507c457a38.png">
 
