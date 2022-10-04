@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Solidity Smart Contracts<br>🌱 I’m currently learning, Blockchain Specialization, Offered By UNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK<br>💬 Ask me about How to deploy an instance of a blockchain and carry out peer-to-peer transactions, program and test smart contracts using Solidity language; and analyze, design, and code a blockchain-based solution for decentralized applications.<br>⚡ Fun fact, I like pizzas but only on NFTs. 
+🔭 I’m currently Learning on Solidity Smart Contracts<br>🌱 Blockchain Specialization, Offered By UNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK<br>💬 Ask me about How to deploy an instance of a blockchain and carry out peer-to-peer transactions, program and test smart contracts using Solidity language; and analyze, design, and code a blockchain-based solution for decentralized applications.<br>⚡ Fun fact, I like pizzas but only on NFTs. 
 
 
 ## 🌐 Socials:
