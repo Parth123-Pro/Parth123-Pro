@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning on Solidity Smart Contracts<br>🌱 Blockchain Specialization, Offered By UNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK<br>💬 Ask me about How to deploy an instance of a blockchain and carry out peer-to-peer transactions, program and test smart contracts using Solidity language; and analyze, design, and code a blockchain-based solution for decentralized applications.<br>⚡ Fun fact, I like pizzas but only on NFTs. 
+🔭 I’m currently Learning on Solidity Smart Contracts<br>🌱 Blockchain Specialization, Offered By UNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK<br>💬 Ask me about How to Develope Flutter Application, program and test smart contracts using Solidity language, and blockchain-based solution for decentralized applications.<br>⚡ Fun fact, I like pizzas but only on NFTs. 
 
 
 ## 🌐 Socials:
@@ -15,7 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 ---
-### Donation for Macbook Air-2022  
 ### My Ether Wallet Address
 <img width="374" alt="Screenshot 2022-08-11 at 4 45 31 PM" src="https://user-images.githubusercontent.com/55745745/184121700-6b7645c0-e3e1-48fa-824c-36507c457a38.png">
 
