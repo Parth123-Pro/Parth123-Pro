@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning on Solidity Smart Contracts<br>🌱 Blockchain Specialization, Offered By UNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK<br><br>🌱 Flutter Development, Udemy<br>💬 Ask me about How to Develope Flutter Application, program and test smart contracts using Solidity language, and blockchain-based solution for decentralized applications.<br>⚡ Fun fact, I like pizzas but only on NFTs. 
+🔭 I’m currently Learning on Solidity Smart Contracts<br>🌱 Blockchain Specialization, Offered By UNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK<br>🌱 Flutter Development, Udemy<br>💬 Ask me about How to Develope Flutter Application, program and test smart contracts using Solidity language, and blockchain-based solution for decentralized applications.<br>⚡ Fun fact, I like pizzas but only on NFTs. 
 
 
 ## 🌐 Socials:
