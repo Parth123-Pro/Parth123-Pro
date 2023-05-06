@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning on Solidity Smart Contracts<br>🌱 Blockchain Specialization, Offered By UNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK<br>🌱 Flutter Development, Udemy<br>💬 Ask me about How to Develope Flutter Application, program and test smart contracts using Solidity language, and blockchain-based solution for decentralized applications.<br>⚡ Fun fact, I like pizzas but only on NFTs. 
+Dedicated and results-driven B.Tech Computer Engineering graduate with a passion for mobile application development, seeking to join a forward-thinking organization where I can leverage my six months of hands-on training experience. Proficient in designing, developing, and maintaining high-quality mobile applications on both Android and iOS platforms, I possess an excellent understanding of modern development frameworks and agile methodologies. My ability to adapt to new technologies and learn quickly, coupled with my strong analytical and problem-solving skills, make me a perfect candidate for a position that values innovation and creativity. I am eager to contribute to your team's success and grow as a professional while shaping the future of mobile applications.
 
 
 ## 🌐 Socials:
@@ -15,6 +15,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 ---
-### My Ether Wallet Address
-<img width="374" alt="Screenshot 2022-08-11 at 4 45 31 PM" src="https://user-images.githubusercontent.com/55745745/184121700-6b7645c0-e3e1-48fa-824c-36507c457a38.png">
+### My BTC Wallet Address
+0x0022dbe78e41bea9aebbbb388adfd69fde565f1f
+## Network
+(BEP20)
+
 
