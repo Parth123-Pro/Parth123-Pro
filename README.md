@@ -1,10 +1,7 @@
 # 💫 About Me:
 A dynamic and driven Computer Science graduate with a solid background in Flutter development and UI/UX design, alongside an enriching internship experience in Android development. Offering a proven track record of 1.5 years of experience and keen attention to detail, I am now seeking to leverage my technical skills and innovative mindset in a challenging role. I am dedicated to continuous learning and enhancing user experience, aiming to contribute significantly to a forward-thinking company that encourages growth and innovation.
 ### Courses
-Blockchain Specialization
-Flutter & UI/UX Development
-Android Development
-JS
+Blockchain Specialization, Flutter & UI/UX Development, Android Development, JS so on....
 
 
 
