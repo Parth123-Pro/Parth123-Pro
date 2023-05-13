@@ -3,9 +3,9 @@ Dedicated and results-driven B.Tech Computer Engineering graduate with a passion
 
 
 ## 🌐 Socials:
-# Cool Photos of Mine!
+### Cool Photos of Mine!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_parthparmar) 
-# Innovative Mobile App Developer | B.Tech Computer Engineering Graduate | Passionate about Creating Impactful Solutions
+### Innovative Mobile App Developer | B.Tech Computer Engineering Graduate | Passionate about Creating Impactful Solutions
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parmar-parth-445378176) 
 
 # 💻 Tech Stack:
