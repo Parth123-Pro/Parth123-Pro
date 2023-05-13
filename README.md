@@ -1,5 +1,11 @@
 # 💫 About Me:
-Dedicated and results-driven B.Tech Computer Engineering graduate with a passion for mobile application development, seeking to join a forward-thinking organization where I can leverage my six months of hands-on training experience. Proficient in designing, developing, and maintaining high-quality mobile applications on both Android and iOS platforms, I possess an excellent understanding of modern development frameworks and agile methodologies. My ability to adapt to new technologies and learn quickly, coupled with my strong analytical and problem-solving skills, make me a perfect candidate for a position that values innovation and creativity. I am eager to contribute to your team's success and grow as a professional while shaping the future of mobile applications.
+A dynamic and driven Computer Science graduate with a solid background in Flutter development and UI/UX design, alongside an enriching internship experience in Android development. Offering a proven track record of 1.5 years of experience and keen attention to detail, I am now seeking to leverage my technical skills and innovative mindset in a challenging role. I am dedicated to continuous learning and enhancing user experience, aiming to contribute significantly to a forward-thinking company that encourages growth and innovation.
+### Courses
+Blockchain Specialization
+Flutter & UI/UX Development
+Android Development
+JS
+
 
 
 ## 🌐 Socials:
