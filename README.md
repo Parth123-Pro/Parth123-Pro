@@ -15,10 +15,5 @@ Blockchain Specialization, Flutter & UI/UX Development, Android Development, JS 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth123-Pro&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
----
-### My BTC Wallet Address
-0x0022dbe78e41bea9aebbbb388adfd69fde565f1f
-## Network
-(BEP20)
 
 
