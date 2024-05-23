@@ -1,4 +1,7 @@
 # 💫 About Me:
+ Phone number: (+49) 17636912583
+ Email address: pparmar2759@gmail.com
+
 Dynamic technology leader with a proven track record in software development and entrepreneurial ventures. I hold a Bachelor's degree in Computer Science and am actively pursuing a Master's in AI and Data Science. Specializing in AI, data science, and blockchain technology and application development, I am committed to driving innovation and excellence within forward-thinking organizations.
 
 Beyond my professional pursuits, I find solace in the world of art, where colors dance on the canvas like a mesmerizing moonlit ballet. Exploring the culinary realm, I indulge in the poetry of flavors, savoring each dish as a masterpiece of taste. With a soul entwined in words, I pen verses like celestial whispers, as if poetry itself was born from the stars. The allure of the moon calls to my wanderlust spirit, inspiring me to traverse new landscapes and cultures, feeding my insatiable thirst for travel.
