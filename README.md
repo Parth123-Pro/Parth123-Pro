@@ -1,10 +1,25 @@
-# 💫 About Me:
+# About Me:
  Phone number: (+49) 17636912583
  Email address: pparmar2759@gmail.com
 
-Dynamic technology leader with a proven track record in software development and entrepreneurial ventures. I hold a Bachelor's degree in Computer Science and am actively pursuing a Master's in AI and Data Science. Specializing in AI, data science, and blockchain technology and application development, I am committed to driving innovation and excellence within forward-thinking organizations.
+Wooing Master's in AI & Data Science at DIT, building on a Bachelor's in Computer Science. At the intersection of technology and creativity, I develop blockchain applications and predictive analytics tools, focusing on user-centric solutions.
 
-Beyond my professional pursuits, I find solace in the world of art, where colors dance on the canvas like a mesmerizing moonlit ballet. Exploring the culinary realm, I indulge in the poetry of flavors, savoring each dish as a masterpiece of taste. With a soul entwined in words, I pen verses like celestial whispers, as if poetry itself was born from the stars. The allure of the moon calls to my wanderlust spirit, inspiring me to traverse new landscapes and cultures, feeding my insatiable thirst for travel.
+As a full-stack developer and co-owner of Codizious Technologies, I have extensive experience in web, mobile, blockchain, and AI applications. My work on a decentralized financial app showcases my proficiency in emerging tech trends. Beyond coding, I enjoy painting and culinary exploration.
+
+I also started my own successful startup called "Boba Mona", which has been recognized by many foundations.
+
+### Professional Experience
+-At Codizious Technologies, I developed dynamic web applications using JavaScript and TypeScript, built responsive UIs with React.js, and implemented server-side applications and APIs using Node.js, Express.js, and GraphQL. A key project was an e-commerce platform.
+
+-In mobile development, I created cross-platform applications with React Native, including a fitness tracking app with GPS tracking, workout logs, and social sharing.
+
+-After completing an online course in blockchain development, I freelanced, developing smart contracts on Ethereum using Solidity and integrating blockchain functionality into web apps with Web3.js. Notable projects include Blockchain-CointMint-Truffle-SC, EthereumBlockchain, Mining-Crypto, and MetaverseRKU.
+
+-In AI and data science, I utilized Python for data analysis and machine learning, built models with TensorFlow, performed data manipulation with Pandas, and implemented algorithms with Scikit-Learn. Highlights include developing a stock price prediction model and YOLOv8-ObjectD, an object detection project using YOLOv8.
+
+### Author
+Soon to be the author of my own book, "________________", I also helped my friend Manav Dave write his first book, "Celestial Whispers", which is currently available on Amazon.
+
 ### Courses
 AI & Data Science, Blockchain Specialization, Flutter & UI/UX Development, Android Development, JS and so on....
 
