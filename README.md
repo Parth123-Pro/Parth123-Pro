@@ -7,9 +7,9 @@ Below are the five projects that best demonstrate my technical skills, problem-s
 | # | Project | Domain | Core Stack | Architecture Focus |
 |---|---------|--------|------------|--------------------|
 | 1 | AstroKundli AI | Vedic astrology intelligence | Python, LLM, RAG, APIs, Microservices | Scalable chatbot, retrieval, deterministic astrology APIs, recommendation engine |
-| 2 | FridgeVision | Ingredient recognition and meal planning | Python, YOLOv8, OpenCV, React, Node.js, IoT | Real-time CV, edge-cloud inference, inventory sync, event-driven meal planning |
+| 2 | CyberChilli! | Ingredient recognition and meal planning | Python, YOLOv8, OpenCV, React, Node.js, IoT | Real-time CV, edge-cloud inference, inventory sync, event-driven meal planning |
 | 3 | VitalSense | Preventive health monitoring | Python, OpenCV, Deep Learning, ROS2, PyQt | Multimodal perception, low-latency health signals, future robotics/digital twin integration |
-| 4 | YOLOv8 Real-Time Object Detection Framework | Reusable object detection platform | Python, YOLOv8, OpenCV, MLOps, TensorRT | Dataset lifecycle, training, evaluation, quantized serving, robotics transfer |
+| 4 | VisiOln | Reusable object detection platform | Python, YOLOv8, OpenCV, MLOps, TensorRT | Dataset lifecycle, training, evaluation, quantized serving, robotics transfer |
 | 5 | EmpathBot | Emotion-aware HRI | Python, Computer Vision, ROS2, HRI | Real-time affect detection, ROS2 messaging, adaptive robot response policies |
 
 ## Table of Contents
@@ -17,16 +17,16 @@ Below are the five projects that best demonstrate my technical skills, problem-s
 - [Portfolio Architecture Principles](#portfolio-architecture-principles)
 - [Suggested Monorepo Structure](#suggested-monorepo-structure)
 - [Shared Platform Architecture](#shared-platform-architecture)
-- [Project 1: AstroKundli AI](#project-1-astrokundli-ai)
-- [Project 2: FridgeVision](#project-2-fridgevision)
-- [Project 3: VitalSense](#project-3-vitalsense)
-- [Project 4: YOLOv8 Real-Time Object Detection Framework](#project-4-yolov8-real-time-object-detection-framework)
+- [Project 1: AstroKundli AI](#project-1-astrokundli-ai) in progress........
+- [Project 2: CyberChilli!](#project-2-fridgevision)
+- [Project 3: VitalSense](#project-3-vitalsense) in progress........
+- [Project 4: VisiOln](#project-4-yolov8-real-time-object-detection-framework)
 - [Project 5: EmpathBot](#project-5-empathbot)
 - [Cross-Project Engineering Patterns](#cross-project-engineering-patterns)
 - [Security, Privacy, and Responsible AI](#security-privacy-and-responsible-ai)
 - [Deployment Strategy](#deployment-strategy)
 - [Roadmap](#roadmap)
-- [Project 6: Blackjack V3](#project-6-blackjack-v3) in progress........
+- [Project 6: The 21st Jack](#project-6-blackjack-v3) in progress........
 
 ## Portfolio Architecture Principles
 
@@ -464,7 +464,7 @@ Monitoring + Logs + Metrics + Alerts
 
 ---
 
-# Project 2: FridgeVision
+# Project 2: CyberChilli! — Edge-AI Ingredient Recognition & Meal Planning System
 
 ## Overview
 
@@ -948,7 +948,7 @@ VitalSense is intended for preventive wellness monitoring and research-oriented 
 
 ---
 
-# Project 4: YOLOv8 Real-Time Object Detection Framework
+# Project 4: VisiOln — Custom Object Detection MLOps Pipeline
 
 ## Overview
 
@@ -1616,7 +1616,7 @@ Together, the projects represent a cohesive AI engineering portfolio covering ba
 
 ---
 
-# Project 6: Blackjack V3
+# Project 6: The 21st Jack
 
 An advanced, data-driven Blackjack simulation and strategy optimization platform. Built to bridge the gap between classic gameplay and real-time statistical analytics, Blackjack V3 features a dedicated mathematical engine that tracks table telemetry, evaluates deck depths, and calculates optimal strategic play on the fly.
 
